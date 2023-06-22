@@ -11,3 +11,9 @@ Bind.it
 🧑‍💻👩‍💻 Equipe: Matheus Marques, Vitor Piva, Gabriel Ache
 
 🛠️ Recursos/Tecnologias Utilizados: html e css 
+
+link das pages: https://matheusmmarques.github.io/Bind.it/
+
+
+
+
